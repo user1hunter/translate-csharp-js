@@ -8,5 +8,6 @@ const names = [
 console.log("All Pace Names");
 
 for (const name of names) {
-  console.log(name);
-}
+  if (name.startsWith("The")) {
+    console.log(name);
+}}

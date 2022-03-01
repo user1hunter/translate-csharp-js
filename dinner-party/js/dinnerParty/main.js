@@ -59,7 +59,7 @@ function getGuests() {
     {
       name: "Admiral Grace Hopper",
       occupation: "computer scientist",
-      bio: "(1906–1992) - developed early compilers: FLOW-Matic, COBOL; worked on UNIVAC; gave speeches on computer history, where she gave out nano-seconds"
+      bio: "(1906 - 1992) - developed early compilers: FLOW-Matic, COBOL; worked on UNIVAC; gave speeches on computer history, where she gave out nano-seconds"
     },
     {
       name: "Indira Gandhi",
